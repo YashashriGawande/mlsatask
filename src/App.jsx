@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Yashashri Gawande",
-  title: "Web Designer & Content Creator",
+  title: "Software Developer and Content Creator",
   email: "yashashrigawande02@gmail.com",
   gitHub: "YashashriGawande",
   instagram: "_yashashrig_",

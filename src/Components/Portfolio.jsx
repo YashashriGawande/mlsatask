@@ -43,16 +43,16 @@ const projectList = [
     url: "https://yashashrigawande.github.io/Speech-Recognition/",
   },
   {
-    title: "My Resume Site",
+    title: "Rainfall Prediction",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Leverage data analytics and machine learning techniques to enhance the accuracy of rainfall forecasting.",
+    url: "https://github.com/YashashriGawande/MachineLearning-Projects/blob/main/Rainfall%20Prediction/Rainfall_Prediction.ipynb",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Cotton Leaf Disease Detection",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Accurately identify diseases affecting cotton crops, thus providing farmers with timely insights.",
+    url: "https://github.com/YashashriGawande/MachineLearning-Projects/blob/main/Cotton%20leaf%20disease%20detection.ipynb",
   },
 ];
 
