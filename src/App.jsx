@@ -30,9 +30,8 @@ const siteProps = {
   gitHub: "YashashriGawande",
   instagram: "_yashashrig_",
   linkedIn: "yashashrig",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  medium: "yashashrigawande02",
+  twitter: "Yashashritwt",
 };
 
 const primaryColor = "#4E567E";

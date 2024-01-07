@@ -33,14 +33,14 @@ const projectList = [
   {
     title: "Fruit Selling Company Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Helps customers improve their health conditions by having easy access to fresh fruits.",
+    url: "https://yashashrigawande.github.io/Vineyard-Growers-Microsoft-Internship/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Speech Recognition Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Speech recognition engine which recognizes words uttered by a human and generate text from it.",
+    url: "https://yashashrigawande.github.io/Speech-Recognition/",
   },
   {
     title: "My Resume Site",
